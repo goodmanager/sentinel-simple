@@ -1,1 +1,0 @@
-# sentinel-simple
